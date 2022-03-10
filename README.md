@@ -144,5 +144,5 @@ This project is under the **MIT license**. See the [LICENSE](https://github.com/
   <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 <br/>
-  Made with :coffee: and ❤️ by <b>Natalie Bravo</b>.
+  Made with :coffee: and ❤️ by <b>Natalie Bravo!</b>.
 <p/>
